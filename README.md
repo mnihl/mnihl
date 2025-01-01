@@ -13,13 +13,13 @@
 
 
 <section align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnihl&show_icons=true&locale=en&layout=compact" alt="mnihl" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mnihl&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="mnihl" /></p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mnihl&show_icons=true&locale=en" alt="mnihl" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mnihl&show_icons=true&locale=en&theme=blue_navy" alt="mnihl" /></p>
 </section>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnihl&label=Profile%20views&color=0e75b6&style=flat" alt="mnihl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnihl&label=Profile%20views&color=0e75b6&style=flat&theme=blue_navy" alt="mnihl" /> </p>
 
 
 <!--
