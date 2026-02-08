@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently currently in my **final semester** of an Informatics Bachelor.
 
-- 🛠️ Building something great @ **Scopri**
+- 🛠️ Building something great at **Scopri**
 
 - 📫 How to reach me:
     - **morgannihlmar1@gmail.com**
