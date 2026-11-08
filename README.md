@@ -10,9 +10,12 @@ I’m currently in my **first semester** of an Engineering Responsible AI System
     - https://linkedin.com/in/morgan-nihlmar
     - https://github.com/mnihl
 
-<h3 align="left">What I am working with:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" /> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/> </a>
+<h3>What I am working with:</h3>
+
+<p>
+  <a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&amp;theme=dark" width="48" height="48" alt="Python homepage"></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="48" height="48" alt="TypeScript homepage"></a>
+  <a href="https://www.java.com/" title="Java"><img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="48" height="48" alt="Java homepage"></a>
+  <a href="https://azure.microsoft.com/" title="Microsoft Azure"><img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" width="48" height="48" alt="Microsoft Azure homepage"></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" width="48" height="48" alt="PostgreSQL homepage"></a>
 </p>
